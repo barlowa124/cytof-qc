@@ -1,3 +1,7 @@
+> **This repository has moved.** Active development continues in [barlowa124/bio-qc](https://github.com/barlowa124/bio-qc) under [`cytof_qc/`](https://github.com/barlowa124/bio-qc/tree/main/cytof_qc). This repo is archived and kept for link stability.
+
+---
+
 # cytof-qc
 
 QC and unsupervised-clustering benchmark for mass cytometry (CyTOF) data,
